@@ -14,6 +14,4 @@ function(){
 ```
 Allo
 
-karate
-
 
