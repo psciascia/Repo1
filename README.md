@@ -13,8 +13,6 @@ function(){
 }
 ```
 Allo
-Bonjour
-Hola
 
 karate
 
