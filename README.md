@@ -13,7 +13,5 @@ function(){
 }
 ```
 Allo
-Bonjour
-Hola
 
 
